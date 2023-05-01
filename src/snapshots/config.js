@@ -10,7 +10,7 @@ module.exports = {
   marketPlaces: {
     ETH: "0xAbDC35433405972052FEB43cA900496fF0646E0c",
     POA: "0x3e8dda130f6c9a028096dfb68eaf48838ecf8630",
-    Tron: "TYQq6573HQCPxFNUiFYTkEYL3eqi5dio2A"
+    TRON: "TYQq6573HQCPxFNUiFYTkEYL3eqi5dio2A"
   },
   bridges: {
     ETH: "TTtgcqFGyF2qRidMqbfqJfPwgpUmAk5vZ2",
